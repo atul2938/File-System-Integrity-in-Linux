@@ -19,8 +19,8 @@ get sha1 hash returns a 20 bytes hash value of an input buffer of a given length
 secure.txt and write modified blocks of the file.
 * s lseek: s lseek ensures that SEEK END points to the size of the file updated through the SecureFS APIs.
 
-Install "libssl-dev" package by running **sudo apt-get install libssl-dev**
 
+Install "libssl-dev" package by running **sudo apt-get install libssl-dev** <br/>
 To execute, run following command : **make and make run**
 
 Contributors : Atul Anand, Dashmesh Singh, Kanupriya Singh
